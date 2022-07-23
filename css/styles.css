@@ -684,6 +684,10 @@ ul {
     cursor: pointer;
 }
 
+.modal-close-button:hover {
+    color: var(--brand-color);
+}
+
 .modal-input-wrap {
     position: relative;
     display: flex;
